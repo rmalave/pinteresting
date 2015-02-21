@@ -27,6 +27,8 @@ gem 'devise', '~> 3.4.1'
 gem 'bootstrap-sass'
 # Add papaerclip to be able to use images
 gem 'paperclip', '~> 4.2'
+# Use aws-sdk to store images
+gem 'aws-sdk', '~> 2.0.27'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
