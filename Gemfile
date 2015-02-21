@@ -29,6 +29,9 @@ gem 'bootstrap-sass'
 gem 'paperclip', '~> 4.2'
 # Use aws-sdk to store images
 gem 'aws-sdk', '~> 2.0.27'
+# jQuery Masonfy for resizin animations
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
