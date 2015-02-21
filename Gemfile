@@ -32,6 +32,10 @@ gem 'aws-sdk', '~> 2.0.27'
 # jQuery Masonfy for resizin animations
 gem 'masonry-rails', '~> 0.2.4'
 gem 'jquery-turbolinks'
+## Gemfile for Rails 3+, Sinatra, and Merb
+gem 'will_paginate', '~> 3.0.6'
+# Prettyfy will paginate with bootstrap
+gem 'will_paginate-bootstrap'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
